@@ -1,0 +1,10 @@
+files.a
+#ignore all across the repo
+todo 
+#only works for extension with single character
+*.[py]   
+#  */    it ignore all subfolder
+sub/*.todo
+sub2/
+l?b.?xt
+log[0-9].txt
